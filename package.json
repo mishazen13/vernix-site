@@ -1,0 +1,10 @@
+{
+  "name": "vernix-site",
+  "version": "1.0.0",
+  "description": "Vernix Minecraft server showcase site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
